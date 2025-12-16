@@ -39,6 +39,20 @@ CRM/ERP Workflow → Zapier Trigger → LangChain Agent
 3. **Impact Over Time**
 
 ---
+ Key Outcome:
+Reduced estimated energy usage (~40–50%)
+Successful replacement of heavy models with greener alternatives
+Clear visualization of sustainability impact
+
+
+
+
+
+Author
+Sayli Takale
+
+
+
 
 ## How to Run
 ```bash
@@ -46,14 +60,10 @@ pip install -r requirements.txt
 python main.py
 streamlit run dashboard/app.py
 
+---
 
 
 
-
-Key Outcome: 
-Reduced estimated energy usage (~40–50%)
-Successful replacement of heavy models with greener alternatives
-Clear visualization of sustainability impact
 
 
 
