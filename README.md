@@ -39,13 +39,10 @@ CRM/ERP Workflow → Zapier Trigger → LangChain Agent
 3. **Impact Over Time**
 
 ---
- Key Outcome:
-Reduced estimated energy usage (~40–50%)
-Successful replacement of heavy models with greener alternatives
-Clear visualization of sustainability impact
-
-
-
+Key Outcome:
+1. Reduced estimated energy usage (~40–50%)
+2. Successful replacement of heavy models with greener alternatives
+3. Clear visualization of sustainability impact
 
 
 Author
