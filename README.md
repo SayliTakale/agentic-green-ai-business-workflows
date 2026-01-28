@@ -58,6 +58,33 @@ python main.py
 streamlit run dashboard/app.py
 
 ---
+---
+
+## 📝 License
+
+This project is released under a **Dual Licensing model**.
+
+```
+### Academic / Research Use
+- Students, educators, and researchers may **view, download, and run**
+  this project for learning or research purposes.
+- **Prior written permission from the author is required** before using
+  the project for academic submissions, research work, or publications.
+
+### Commercial / Organizational Use
+- Any use by companies, startups, organizations, or for-profit entities
+  **requires a paid commercial license**.
+- Commercial use without permission is strictly prohibited and may result
+  in legal action.
+
+For full legal terms, see the [`LICENSE`](./LICENSE) file.
+
+For permission or commercial licensing inquiries, contact:
+**Sayli Takale**
+saylitakale2308@gmail.com
+```
+
+---
 
 
 
